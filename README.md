@@ -60,3 +60,4 @@ nginx-log-analyzer/
 ├── log_analyzer.sh      # The main analysis script
 └── README.md            # This file
 
+This is the project link: https://roadmap.sh/projects/nginx-log-analyser
